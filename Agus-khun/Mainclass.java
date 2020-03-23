@@ -10,11 +10,11 @@ public class Mainclass {
  
     public static void main(String[] args) {
             System.out.println("###############################");
-	    System.out.println("##  ##### ####  #   # #####  ##");
-	    System.out.println("##  #   # #     #   # #      ##");
-	    System.out.println("##  ##### ##### #   # #####  ##");
-	    System.out.println("##  #   # #   # #   #     #  ##");
-	    System.out.println("##  #   # ##### ##### #####  ##");
+	    System.out.println("#@  ##### ##### #   # #####  @#");
+	    System.out.println("#@  #     #     ##  #   #    @#");
+	    System.out.println("#@  #     #     # # #   #    @#");
+	    System.out.println("#@  #     #     #  ##   #    @#");
+	    System.out.println("#@  ##### ##### #   #   #    @#");
 	    System.out.println("###############################");
             
                       System.out.println("### WELCOME TO TUGASKU WKWKW ##");
@@ -27,3 +27,4 @@ public class Mainclass {
     }
     
 }
+
