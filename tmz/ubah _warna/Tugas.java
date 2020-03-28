@@ -1,4 +1,4 @@
-package innerclass;
+package tmz.ubah_warna;
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner6;
@@ -12,7 +12,7 @@ public class Tugas{
 public static void main(String args[]){
 
   System.out.println("\n\tPERTUKARAN WARNA\n"); 
-   Tugas warna =new Warna();
+   Warna warna =new Warna();
 
    warna.warna();
 
