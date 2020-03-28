@@ -12,7 +12,7 @@ public class Tugas{
 public static void main(String args[]){
 
   System.out.println("\n\tPERTUKARAN WARNA\n"); 
-   Warna warna =new Warna();
+   Tugas warna =new Warna();
 
    warna.warna();
 
